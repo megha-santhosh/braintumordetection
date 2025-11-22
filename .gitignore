@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Data & large files (don't upload datasets)
+brain_mri/
+*.h5
+*.hdf5
+*.zip
+*.tar.gz
+
+# logs
+*.log
